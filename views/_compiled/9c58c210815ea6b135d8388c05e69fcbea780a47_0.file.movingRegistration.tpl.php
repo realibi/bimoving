@@ -172,7 +172,7 @@ $(document).ready(function () {
     </div>
     <div class="col-md-3 col-xs-12">
         <div class="img-frame">
-            <img src="/views/static/img/cleaning.png" alt="">
+            <img src="/views/static/img/cleaning.jpg" alt="">
         </div>
     </div>
 </div>

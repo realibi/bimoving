@@ -218,7 +218,7 @@
 
     <div class="col-md-6 col-xs-12 wow fadeInLeftBig">
         <div class="img-frame shadow-20">
-            <img src="/views/static/img/cleaning.png" alt="">
+            <img src="/views/static/img/cleaning.jpg" alt="">
         </div>
         <br>
         <div class="regular-text align-center">
