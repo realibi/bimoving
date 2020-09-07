@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79e2791f-6baa-4917-8136-6968babb8796" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/smarty/smarty" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/klein/klein" />
+      <path value="$PROJECT_DIR$/vendor/catfan/medoo" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h0ECrXYm8XpBYcIOENvH5QGTo4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/static/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\img" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\models" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\js" />
+      <recent name="E:\OSPanel\OSPanel\domains\bimoving\views\static\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79e2791f-6baa-4917-8136-6968babb8796" name="Default Changelist" comment="" />
+      <created>1599139485125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599139485125</updated>
+      <workItem from="1599139486351" duration="9138000" />
+      <workItem from="1599219343713" duration="20535000" />
+      <workItem from="1599368268448" duration="10920000" />
+      <workItem from="1599406430498" duration="15782000" />
+      <workItem from="1599475320020" duration="3231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1176" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599385857468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1176" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1599385857468" />
+    <state x="1343" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599476227321">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1343" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599146444377" />
+    <state x="1343" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599476227321" />
+    <state x="1274" y="448" key="NewPhpFileDialog" timestamp="1599415955790">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1274" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599415955790" />
+  </component>
+</project>
